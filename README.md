@@ -41,4 +41,3 @@ I bring both analytical and people skills to every project I work on.
 
 ⭐ *"Data is the new oil, but insight is the new gold."*  
 
--->
