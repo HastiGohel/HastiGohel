@@ -34,7 +34,7 @@ I bring both analytical and people skills to every project I work on.
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/hasti-gohel)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/hasti-gohel1512)  
 📧 **Email:** gohelhasti1527@gmail.com 
 
 ---
