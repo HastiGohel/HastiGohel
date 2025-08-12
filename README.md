@@ -37,6 +37,9 @@ I bring both analytical and people skills to every project I work on.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/hasti-gohel1527)  
 📧 **Email:** gohelhasti1527@gmail.com 
 
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
 ---
 
 ⭐ *"Data is the new oil, but insight is the new gold."*  
