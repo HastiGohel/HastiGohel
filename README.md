@@ -47,7 +47,7 @@ I bring both analytical and people skills to every project I work on.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HastiGohel&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HastiGohel&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.vercel.app?user=HastiGohel&theme=radical&hide_border=true)
 
 ---
 
