@@ -37,9 +37,17 @@ I bring both analytical and people skills to every project I work on.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/hasti-gohel1527)  
 📧 **Email:** gohelhasti1527@gmail.com 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HastiGohel&theme=radical&hide_border=true)
+---
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=HastiGohel&show_icons=true&theme=radical)
+# GitHub
+## 📈 GitHub Stats
+![Hasti's GitHub stats](https://github-readme-stats.vercel.app/api?username=HastiGohel&show_icons=true&theme=radical)
+
+## 💬 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HastiGohel&layout=compact&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HastiGohel&theme=radical&hide_border=true)
 
 ---
 
