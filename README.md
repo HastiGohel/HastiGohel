@@ -27,12 +27,6 @@ I bring both analytical and people skills to every project I work on.
 
 ---
 
-## 📌 Featured Projects  
-🔹 [**Job Data Scraper**](#) – Automated scraping from job portals, salary parsing, and hiring trend analysis.  
-🔹 [**Power BI Sales Dashboard**](#) – Interactive dashboard with KPIs, filters, and data storytelling.  
-
----
-
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/hasti-gohel1527)  
 📧 **Email:** gohelhasti1527@gmail.com 
